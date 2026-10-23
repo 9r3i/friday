@@ -1,0 +1,7 @@
+*{margin:0px;padding:0px;font-family:consolas,monospace;font-size:11px;font-weight:normal;font-style:normal;color:#333;}
+body{background-color:#eed;overflow-x:hidden;padding:10px;}
+a{text-decoration:none;color:#37b;}a:hover{color:#7b3;}
+#index{margin:0px auto;max-width:720px;border:1px solid #bbb;background-color:#fff;overflow-x:hidden;}
+#form{margin:0px auto;max-width:720px;border:1px solid #bbb;background-color:#fff;overflow-x:hidden;}
+.data{padding:5px;border-top:1px dotted #bbb;cursor:default;}
+.header-input{padding:5px;}
